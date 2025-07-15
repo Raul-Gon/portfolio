@@ -3,7 +3,7 @@
 ## Raúl González Gómez
 
 **Desarrollador Full Stack Junior**  
-[![Código QR](pdf/frameCV.png)](pdf/frameCV.png)
+<img src="pdf/frameCV.png" width="100" height="100"/>
 
 ---
 
@@ -17,47 +17,47 @@ Soy un desarrollador Full Stack Junior con experiencia en tecnologías como HTML
 
 | Tecnología     | Nivel         | Imagen                         |
 |----------------|---------------|--------------------------------|
-| HTML           | Medio/Alto    | <img src="img/html.webp" width="58" height="56"/>             |
-| CSS            | Medio/Alto    | ![](img/css.webp)              |
-| JavaScript     | Medio/Alto    | ![](img/javascript.webp)       |
-| Tailwind CSS   | Medio/Alto    | ![](img/tailwind.webp)         |
-| Bootstrap      | Medio         | ![](img/bootstrap1.webp)       |
-| Node.js        | Básico/Medio  | ![](img/node.webp)             |
-| Git            | Básico        | ![](img/git.webp)              |
-| GitHub         | Básico/Medio  | ![](img/github.webp)           |
-| PHP            | Medio/Alto    | ![](img/php.webp)              |
-| SQL            | Medio         | ![](img/sql.webp)              |
-| JAVA           | Medio         | ![](img/java.webp)             |
-| C              | Medio         | ![](img/c.webp)                |
-| C++            | Medio         | ![](img/cpp.webp)              |
+| HTML           | Medio/Alto    | <center><img src="img/html.webp" width="100" height="100"/></center>             |
+| CSS            | Medio/Alto    | <center><img src="img/css.webp" width="100" height="100"/></center>              |
+| JavaScript     | Medio/Alto    | <center><img src="img/javascript.webp" width="100" height="100"/></center>       |
+| Tailwind CSS   | Medio/Alto    | <center><img src="img/tailwind.webp" width="100" height="100"/></center>         |
+| Bootstrap      | Medio         | <center><img src="img/bootstrap1.webp" width="100" height="100"/></center>       |
+| Node.js        | Básico/Medio  | <center><img src="img/node.webp" width="100" height="100"/></center>             |
+| Git            | Básico        | <center><img src="img/git.webp" width="100" height="100"/></center>              |
+| GitHub         | Básico/Medio  | <center><img src="img/github.webp" width="100" height="100"/></center>           |
+| PHP            | Medio/Alto    | <center><img src="img/php.webp" width="100" height="100"/></center>              |
+| SQL            | Medio         | <center><img src="img/sql.webp" width="100" height="100"/></center>              |
+| JAVA           | Medio         | <center><img src="img/java.webp" width="100" height="100"/></center>             |
+| C              | Medio         | <center><img src="img/c.webp" width="100" height="100"/></center>                |
+| C++            | Medio         | <center><img src="img/cpp.webp" width="100" height="100"/></center>              |
 
 ---
 
 ## Proyectos destacados
 
 ### [LandPage Feria Alcalá](https://raul-gon.github.io/WebFeria/)
-![Feria](img/feria.webp)
+<img src="img/feria.webp" width="450" height="300"/><br>
 LandPage de la Feria de Alcalá de Guadaíra con historia, teléfonos de interés y curiosidades.  
 _Tecnologías: HTML, Tailwind CSS_
 
 ---
 
 ### [Web PHP Michael](https://raulphpmichael.ct.ws/)
-![Michael Jackson](img/mj.webp)
+<img src="img/mj.webp" width="450" height="300"/><br>
 Web de discos de Michael Jackson.  
 _Tecnologías: HTML, CSS, JS, PHP, MySQL_
 
 ---
 
 ### [Web PHP Moda Flamenca](https://raulphpflamenca.ct.ws)
-![Moda Flamenca](img/flamenca.webp)
+<img src="img/flamenca.webp" width="450" height="300"/><br>
 Sitio de Moda Flamenca.  
 _Tecnologías: HTML, CSS, PHP, MySQL_
 
 ---
 
 ### [Dashboard Chart.js](https://raul-gon.github.io/chart/)
-![Chart](img/chart.webp)
+<img src="img/chart.webp" width="450" height="300"/><br>
 Dashboard de gráficos con Chart.js.  
 _Tecnologías: HTML, JS, Tailwind CSS_
 
@@ -65,14 +65,15 @@ _Tecnologías: HTML, JS, Tailwind CSS_
 
 ## Contacto
 
-- [![LinkedIn](img/linkedinRedonN.webp)](proximamente.html)
-- [![Email](img/gmail2.webp)](mailto:raulgonzalezgom@gmail.com)
-- [![Sitio Web / CV](img/sitioWeb1.webp)](proximamente.html)
-- [![WhatsApp](img/whatsappN.webp)](https://wa.me/34665376742)
-- [![Descarga CV](img/cv1.webp)](pdf/currilum.pdf)
+<a href="proximamente.html"><img src="img/linkedinRedonN.webp" width="50" height="50"/></a>
+<a href="mailto:raulgonzalezgom@gmail.com"><img src="img/gmail2.webp" width="50" height="50"/></a>
+<a href="proximamente.html"><img src="img/sitioWeb1.webp" width="50" height="50"/></a>
+<a href="https://wa.me/34665376742"><img src="img/whatsappN.webp" width="50" height="50"/></a>
+<a href="pdf/currilum.pdf"><img src="img/cv1.webp" width="50" height="50"/></a>
 
 _¡Estoy disponible para nuevas oportunidades!_
 
 ---
 
 © 2025 Raúl González Gómez — Todos los derechos reservados.
+
