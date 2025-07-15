@@ -17,7 +17,7 @@ Soy un desarrollador Full Stack Junior con experiencia en tecnologías como HTML
 
 | Tecnología     | Nivel         | Imagen                         |
 |----------------|---------------|--------------------------------|
-| HTML           | Medio/Alto    | ![](img/html.webp)             |
+| HTML           | Medio/Alto    | <img src="img/html.webp" width="58" height="56"/>             |
 | CSS            | Medio/Alto    | ![](img/css.webp)              |
 | JavaScript     | Medio/Alto    | ![](img/javascript.webp)       |
 | Tailwind CSS   | Medio/Alto    | ![](img/tailwind.webp)         |
